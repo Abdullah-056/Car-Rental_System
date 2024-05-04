@@ -1,2 +1,2 @@
 # Car-Rental_System
-In this repository, Car rental system is demonstrated using C++ and SQL.
+The Car Rental System project is a comprehensive solution that combines C++ programming with MySQL database management to facilitate the rental and management of cars. It offers a user-friendly interface for both buyers and sellers, allowing seamless interaction with the system. Through the integration of MySQL, the system ensures efficient storage and retrieval of data, enhancing overall performance and reliability. With features such as error handling and database operations, users can easily rent available cars or add new ones to the inventory. 
